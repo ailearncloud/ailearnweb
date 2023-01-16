@@ -1,0 +1,21 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts: 
+  - caption: Aligned Learning Activities
+    chapters: 
+    - file: ala
+
+  - caption: Platform
+    chapters:
+    - file: author
+    - file: ada
+    - file: alonzo
+    - file: emmy
+    - file: jorge
+    - file: maryam
+  
+
+
