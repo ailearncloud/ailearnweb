@@ -1,5 +1,5 @@
 (page-ala)=
-# What are ALAs?
+# <font color="maroon">What are ALAs?</font>
 
 The cornerstone of AI-Learn’s pedagogical design are smart, modularized Aligned Learning Activities (ALAs). An ALA is an aligned semantic triple consisting of a learning objective, assessments and learning activities.
 
@@ -9,7 +9,7 @@ The cornerstone of AI-Learn’s pedagogical design are smart, modularized Aligne
 ```
 
 
-# Backward Design
+# <font color="maroon">Backward Design</font>
 
 Traditional learning design is based on a “forward design” process. Instructors begin with learning materials or instructional activities, develop assessments around the activities and then get around to learning goals.
 
