@@ -16,6 +16,10 @@ parts:
     - file: emmy
     - file: jorge
     - file: maryam
+  - caption: About
+    chapters:
+    - file: team
+    - file: board
   
 
 

@@ -13,13 +13,13 @@ The AI-Learn platform consists of six major components:
 
 - **[AI-Learn Author](page-author)** is an authoring wizard and design canvas for extracting, editing, and deploying ALAs. It is the primary end user tool for interacting with the platform.
 
-- **[AI-Learn Ada](page-ada)**  is a AI-based [Large Language Model (LLM)](https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai) extraction engine for automatically generating ALAs from the web, Open Educational Resources (OER) and proprietary digital materials.
+- **[AI-Learn Ada](page-ada)**  is a AI-based extraction engine (based on a [Large Language Model (LLM)](https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai)) for automatically generating ALAs.  
 
-- **[AI-Learn Alonzo](page-alonzo)** is an AI-based analytics engine for generating advanced insights and evaluating just-in-time learning efficacy of deployed ALAs.
+- **[AI-Learn Alonzo](page-alonzo)** is an AI-based analytics engine for generating advanced insights and evaluating learning efficacy of deployed ALAs based on causal inferencing.
 
-- **[AI-Learn Emmy](page-emmy)** is an AI-based adaptive engine for delivering personalized, formative assessments.
+- **[AI-Learn Emmy](page-emmy)** is an AI-based intelligent tutoring system.
 
-- **[AI-Learn Jorge](page-jorge)** is a "crowd-sourced" searchable digital repository of ALAs with robust IP management.
+- **[AI-Learn Jorge](page-jorge)** is a "crowd-sourced" searchable digital repository of pre-configured ALAs with robust IP management.
 
 - **[AI-Learn Maryam](page-maryam)** is AI-Learn's digital infrastructure, including cloud-based services for security, scalability, and integration.
 
