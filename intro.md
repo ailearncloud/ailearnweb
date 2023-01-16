@@ -1,6 +1,6 @@
 # <font color="maroon">Overview</font>
 
-**AI-Learn** is a fully open-source AI-based educational platform and toolset for extracting, discovering, creating, sharing, and deploying digitally smart Aligned Learning Activities (ALAs).  ALAs](page-ala) are data-enabled **Smart Learning Atoms** for driving next-generation AI-based teaching and learning.
+**AI-Learn** is a fully open-source AI-based educational platform and toolset for extracting, discovering, creating, sharing, and deploying digitally smart Aligned Learning Activities (ALAs). [ALAs](page-ala) are data-enabled <font color="blue">**Smart Learning Atoms**</font> for driving next-generation AI-based teaching and learning.
 
 ## <font color="maroon">Platform</font>
 
@@ -22,6 +22,31 @@ The AI-Learn platform consists of six major components:
 - **[AI-Learn Jorge](page-jorge)** is a "crowd-sourced" searchable digital repository of ALAs with robust IP management.
 
 - **[AI-Learn Maryam](page-maryam)** is AI-Learn's digital infrastructure, including cloud-based services for security, scalability, and integration.
+
+# <font color="maroon">Why AI-Learn?</font>
+
+AI-Learn is a set of next-generation AI-based tools for democratizing education by lowering costs and increasing value.
+
+
+AI-learn lowers costs by:
+
+- automating the tedious parts of curriculum development
+- harnessing the power of OER (Open Educational Resources)
+- providing an open digital library of smart instructional resources
+- leveraging open source software, methodologies and governance
+
+AI-learn increases value by:
+
+- enabling easy customization of instruction for vital new areas such as workforce development and adult learning
+
+- delivering “just-in-time” advanced analytics
+
+- crowd-sourcing instructional quality monitoring and evaluation
+
+- establishing a market place for exchanging and monetizing instructional materials
+
+
+# <font color="maroon">Open Source</font>
 
 
 The AI-Learn codebase will be made available under an MIT Open Source license.
