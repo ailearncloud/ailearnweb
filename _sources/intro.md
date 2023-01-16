@@ -1,8 +1,10 @@
-# AI-Learn Overview
+# <font color="maroon">Overview</font>
 
 **AI-Learn** is a fully open-source AI-based educational platform and toolset for extracting, discovering, creating, sharing, and deploying digitally smart Aligned Learning Activities (ALAs).  
 
 > [ALAs](page-ala) are data-enabled **Smart Learning Atoms** for driving next-generation AI-based teaching and learning.
+
+## <font color="maroon">Platform</font>
 
 The AI-Learn platform consists of six major components:
 
