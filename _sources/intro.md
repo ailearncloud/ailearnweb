@@ -1,10 +1,14 @@
-# <font color="maroon">Overview</font>
+# <font color="maroon">Mission</font>
 
-We started **AI-Learn** because every citizen should have access to affordable, effective education. We support educators with open source AI tools to train knowledge workers, not just once but throughout a lifetime. We cut out the middlemen by providing educators and domain experts with AI tools to create skills-based curriculums, deploy the curriculum into intelligent tutoring systems, and receive actionable insights on what's working and what needs improvement. Our goal is to dramatically reduce the cost of curriculum development for skills-based training, but we also think that it is just as important to provide educational opportunities for reskilling and upskilling to historically marginalized learners.  
+We started **AI-Learn** because every citizen should have access to affordable, effective education. 
+
+We support educators with open source AI-powered tools to train knowledge workers, not just once but throughout their lifetime. We cut out the middlemen by placing the tools directly in the hands of educators and domain experts so they can  design and customize skills-based curriculums, deploy the curriculum into intelligent tutoring systems, and receive actionable insights on what's working and what needs improvement. 
+
+Our goal is to dramatically reduce the cost of curriculum development for skills-based training, but we also think that it is just as important to accelerate educational opportunities for reskilling and upskilling to historically marginalized learners.  
 
 ## <font color="maroon">What is AI Learn?</font>
 
-**AI-Learn** is a fully open-source AI-based educational platform and toolset for extracting, discovering, creating, sharing, and deploying digitally smart Aligned Learning Activities (ALAs). [ALAs](page-ala) are data-enabled <font color="blue">**Smart Learning Atoms**</font> for driving next-generation AI-based teaching and learning.
+**AI-Learn** is a fully open-source AI-based educational platform for driving next-generation AI-based teaching and learning.
 
 ## <font color="maroon">Platform</font>
 
