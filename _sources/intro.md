@@ -1,13 +1,22 @@
 # <font color="maroon">Overview</font>
 
-AI-Learn is an open-source toolset and digital platform for creating customized skills-based curriculums. We cut out the middlemen by placing AI-powered tools directly in the hands of instructors and domain experts. Using AI-Learn, an educator can *design* a customized skills-based curriculum, *deploy* it to an intelligent tutoring system or learning management system, *evaluate* what is working and what needs correction, *improve* instructional materials to make them more effective, and finally *share* the work and data with colleagues, educational researchers, and the global educational community. AI-Learn is powered by Deep Learning Large Language Models (LLMs).  
+AI-Learn is an open-source toolset and digital platform for creating custom skills-based curriculums. We cut out the middlemen by placing AI-powered tools directly in the hands of educators. Using AI-Learn, an educator can **design** a customized skills-based curriculum, **deploy** it to an intelligent tutoring system or learning management system, **evaluate** what is working and what needs correction, **improve** instruction to make it more effective, and finally **share** the work and data with colleagues, educational researchers, and the global educational community.
+
+```{image} /images/wflow.jpg
+:width: 500px
+:align: center
+```
+
+AI-Learn is powered by Deep Learning Large Language Models (LLMs).  LLMs represent a breakthrough in Artificial Intelligence (AI). By using pre-trained LLMS it is now possible to enable complex tasks with little training data.
+
+
 
 # <font color="maroon">Mission</font>
 
-Every citizen should have access to affordable, quality education. Our goal is to dramatically reduce the cost of curriculum development for skills-based training, but we also think that it is just as important to accelerate educational opportunities for historically marginalized learners and communities.  
+Every citizen should have access to affordable, quality education. Our goal is to dramatically <font color="blue">*reduce the cost*</font> of curriculum development for skills-based training by at least (10x) and to <font color="blue">*improve educational achievement*</font> of historically marginalized learners by at least (.5 effect size).
 
 
-## <font color="maroon">Platform</font>
+# <font color="maroon">Platform</font>
 
 The AI-Learn platform consists of six major components:
 
