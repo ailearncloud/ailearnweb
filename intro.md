@@ -1,14 +1,11 @@
+# <font color="maroon">Overview</font>
+
+AI-Learn is an open-source toolset and digital platform for creating customized skills-based curriculums. We cut out the middlemen by placing AI-powered tools directly in the hands of instructors and domain experts. Using AI-Learn, an educator can *design* a customized skills-based curriculum, *deploy* it to an intelligent tutoring system or learning management system, *evaluate* what is working and what needs correction, *improve* instructional materials to make them more effective, and finally *share* the work and data with colleagues, educational researchers, and the global educational community. AI-Learn is powered by Deep Learning Large Language Models (LLMs).  
+
 # <font color="maroon">Mission</font>
 
-We started **AI-Learn** because every citizen should have access to affordable, effective education. 
+Every citizen should have access to affordable, quality education. Our goal is to dramatically reduce the cost of curriculum development for skills-based training, but we also think that it is just as important to accelerate educational opportunities for historically marginalized learners and communities.  
 
-We support educators with open source AI-powered tools to train knowledge workers, not just once but throughout their lifetime. We cut out the middlemen by placing the tools directly in the hands of educators and domain experts so they can  design and customize skills-based curriculums, deploy the curriculum into intelligent tutoring systems, and receive actionable insights on what's working and what needs improvement. 
-
-Our goal is to dramatically reduce the cost of curriculum development for skills-based training, but we also think that it is just as important to accelerate educational opportunities for reskilling and upskilling to historically marginalized learners.  
-
-## <font color="maroon">What is AI Learn?</font>
-
-**AI-Learn** is a fully open-source AI-based educational platform for driving next-generation AI-based teaching and learning.
 
 ## <font color="maroon">Platform</font>
 
