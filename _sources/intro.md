@@ -13,7 +13,7 @@ AI-Learn is powered by Deep Learning Large Language Models (LLMs).  LLMs represe
 
 # <font color="maroon">Mission</font>
 
-Every citizen should have access to affordable, quality education. Our goal is to dramatically <font color="blue">*reduce the cost*</font> of curriculum development for skills-based training by at least (10x) and to <font color="blue">*improve educational achievement*</font> of historically marginalized learners by at least (.5 effect size).
+Every citizen should have access to affordable, quality education. Our goal is to dramatically **reduce the cost** of curriculum development for skills-based training by at least (**10X**) and to **improve educational achievement** of historically marginalized learners by at least (**.5 effect size**).
 
 
 # <font color="maroon">Platform</font>
