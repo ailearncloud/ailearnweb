@@ -1,14 +1,11 @@
 # <font color="maroon">Overview</font>
 
-AI-Learn is an open-source toolset and digital platform for creating custom skills-based curriculums. We cut out the middlemen by placing AI-powered tools directly in the hands of educators. Using AI-Learn, an educator can **design** a customized skills-based curriculum, **deploy** it to an intelligent tutoring system or learning management system, **evaluate** what is working and what needs correction, **improve** instruction to make it more effective, and finally **share** the work and data with colleagues, educational researchers, and the global educational community.
+AI-Learn is an open-source toolset and digital platform for creating custom skills-based curriculums. We cut out the middlemen by placing AI-powered tools directly in the hands of educators. Using AI-Learn, an educator can **design** a customized skills-based curriculum, **deploy** it to an intelligent tutoring system or learning management system, **evaluate** what is working and what needs correction, **improve** instruction to make it more effective, and finally **share** the work and data with colleagues, educational researchers, and the global educational community. AI-Learn is powered by Deep Learning Large Language Models (LLMs). 
 
 ```{image} /images/wflow.jpg
 :width: 500px
 :align: center
 ```
-
-AI-Learn is powered by Deep Learning Large Language Models (LLMs).  LLMs represent a breakthrough in Artificial Intelligence (AI). By using pre-trained LLMS it is now possible to enable complex tasks with little training data.
-
 
 
 # <font color="maroon">Mission</font>
