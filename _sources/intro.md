@@ -18,4 +18,4 @@ AI-Learn Cost-Value Equation
 ```
 # <font color="maroon">Open Source</font>
 
-AI-Learn is being developed and will be released under an [MIT Open Source license](https://en.wikipedia.org/wiki/MIT_License).
+AI-Learn code is being developed as open source and will be released under an [MIT Open Source license](https://en.wikipedia.org/wiki/MIT_License).
