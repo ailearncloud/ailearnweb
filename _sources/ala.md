@@ -1,11 +1,12 @@
 (page-ala)=
-# <font color="maroon">Aligned Learning Activities</font>
+# <font color="maroon">Pedagogical Design</font>
 
 The cornerstone of AI-Learn’s pedagogical design are smart, modularized Aligned Learning Activities (ALAs). An ALA is an aligned semantic triple consisting of a learning objective, assessments and learning activities.
 
-```{image} /images/ala.png
+```{figure} /images/ala.png
 :width: 500px
 :align: center
+Aligned Learning Activities
 ```
 
 
@@ -19,6 +20,3 @@ Research evidence strongly suggests that learning outcomes can be improved by a 
 :width: 700px
 :align: center
 ```
-
-# ALAs and Adaptive Learning Systems
-The use of Aligned Learning Activities for designing next-generation adaptive learning systems is described in detail in “A possible future for next generation adaptive learning systems.” [Ess16].
