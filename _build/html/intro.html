@@ -53,7 +53,7 @@ const thebe_selector_output = ".output, .cell_output"
     <script async="async" src="_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="What are ALAs?" href="ala.html" />
+    <link rel="next" title="Pedagogical Design" href="ala.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="en">
     
@@ -115,14 +115,21 @@ const thebe_selector_output = ".output, .cell_output"
         </ul>
         <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
-  Aligned Learning Activities
+  How Does AI-Learn Work?
  </span>
 </p>
 <ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="ala.html">
    <font color="maroon">
-    What are ALAs?
+    Pedagogical Design
+   </font>
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="workflow.html">
+   <font color="maroon">
+    Workflow
    </font>
   </a>
  </li>
@@ -133,6 +140,13 @@ const thebe_selector_output = ".output, .cell_output"
  </span>
 </p>
 <ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="platformoverview.html">
+   <font color="maroon">
+    Platform
+   </font>
+  </a>
+ </li>
  <li class="toctree-l1">
   <a class="reference internal" href="author.html">
    <font color="maroon">
@@ -185,7 +199,7 @@ const thebe_selector_output = ".output, .cell_output"
  <li class="toctree-l1">
   <a class="reference internal" href="team.html">
    <font color="maroon">
-    Team
+    Project Team
    </font>
   </a>
  </li>
@@ -386,22 +400,6 @@ title="Print to PDF"
     Mission
    </font>
   </a>
-  <ul class="visible nav section-nav flex-column">
-   <li class="toc-h2 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#font-color-maroon-platform-font">
-     <font color="maroon">
-      Platform
-     </font>
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toc-h1 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#font-color-maroon-why-ai-learn-font">
-   <font color="maroon">
-    Why AI-Learn?
-   </font>
-  </a>
  </li>
  <li class="toc-h1 nav-item toc-entry">
   <a class="reference internal nav-link" href="#font-color-maroon-open-source-font">
@@ -444,22 +442,6 @@ title="Print to PDF"
     Mission
    </font>
   </a>
-  <ul class="visible nav section-nav flex-column">
-   <li class="toc-h2 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#font-color-maroon-platform-font">
-     <font color="maroon">
-      Platform
-     </font>
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toc-h1 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#font-color-maroon-why-ai-learn-font">
-   <font color="maroon">
-    Why AI-Learn?
-   </font>
-  </a>
  </li>
  <li class="toc-h1 nav-item toc-entry">
   <a class="reference internal nav-link" href="#font-color-maroon-open-source-font">
@@ -482,46 +464,27 @@ title="Print to PDF"
                 
   <section class="tex2jax_ignore mathjax_ignore" id="font-color-maroon-overview-font">
 <h1><font color="maroon">Overview</font><a class="headerlink" href="#font-color-maroon-overview-font" title="Permalink to this heading">#</a></h1>
-<p>AI-Learn is an open-source toolset and digital platform for creating customized skills-based curriculums. We cut out the middlemen by placing AI-powered tools directly in the hands of educators and domain experts. Using AI-Learn, an educator can <em>design</em> a customized skills-based curriculum, <em>deploy</em> it to an intelligent tutoring system or learning management system, <em>evaluate</em> what is working and what needs improvement, <em>improve</em> the elements that can be made more effective, and finally <em>share</em> their work and data with colleagues, educational researchers, and the global educational community. AI-Learn is powered by Deep Learning Large Language Models (LLMs).</p>
+<p>AI-Learn is an open-source toolset and digital platform for creating modular skills-based curriculums. We cut out the middlemen by placing AI-powered tools directly in the hands of educators. Using AI-Learn, an educator can <strong>design</strong> a custom skills-based curriculum, <strong>deploy</strong> it to an intelligent tutoring system or learning management system, <strong>evaluate</strong> what is working and what needs to change, <strong>improve</strong> specific instructional resources to make the curriculum more effective, and <strong>share</strong> the work and data, with colleagues, educational researchers, and the global educational community. AI-Learn is powered by AI Large Language Models (LLMs), also called pre-trained Transformers.</p>
+<figure class="align-center" id="id1">
+<a class="reference internal image-reference" href="_images/workflow.png"><img alt="_images/workflow.png" src="_images/workflow.png" style="width: 500px;" /></a>
+<figcaption>
+<p><span class="caption-number">Fig. 1 </span><span class="caption-text">AI-Learn Workflow</span><a class="headerlink" href="#id1" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 </section>
 <section class="tex2jax_ignore mathjax_ignore" id="font-color-maroon-mission-font">
 <h1><font color="maroon">Mission</font><a class="headerlink" href="#font-color-maroon-mission-font" title="Permalink to this heading">#</a></h1>
-<p>Our goal is to dramatically reduce the cost of curriculum development for skills-based training, but we also think that it is just as important to accelerate educational opportunities for reskilling and upskilling to historically marginalized learners.</p>
-<section id="font-color-maroon-platform-font">
-<h2><font color="maroon">Platform</font><a class="headerlink" href="#font-color-maroon-platform-font" title="Permalink to this heading">#</a></h2>
-<p>The AI-Learn platform consists of six major components:</p>
-<a class="reference internal image-reference" href="_images/ailearnplatform.png"><img alt="_images/ailearnplatform.png" class="align-center" src="_images/ailearnplatform.png" style="width: 500px;" /></a>
-<ul class="simple">
-<li><p><strong><a class="reference internal" href="author.html#page-author"><span class="std std-ref">AI-Learn Author</span></a></strong> is an authoring wizard and design canvas for extracting, editing, and deploying ALAs. It is the primary end user tool for interacting with the platform.</p></li>
-<li><p><strong><a class="reference internal" href="ada.html#page-ada"><span class="std std-ref">AI-Learn Ada</span></a></strong>  is a AI-based extraction engine (based on a <a class="reference external" href="https://hai.stanford.edu/news/how-large-language-models-will-transform-science-society-and-ai">Large Language Model (LLM)</a>) for automatically generating ALAs.</p></li>
-<li><p><strong><a class="reference internal" href="alonzo.html#page-alonzo"><span class="std std-ref">AI-Learn Alonzo</span></a></strong> is an AI-based analytics engine for generating advanced insights and evaluating learning efficacy of deployed ALAs based on causal inferencing.</p></li>
-<li><p><strong><a class="reference internal" href="emmy.html#page-emmy"><span class="std std-ref">AI-Learn Emmy</span></a></strong> is an AI-based intelligent tutoring system.</p></li>
-<li><p><strong><a class="reference internal" href="jorge.html#page-jorge"><span class="std std-ref">AI-Learn Jorge</span></a></strong> is a “crowd-sourced” searchable digital repository of pre-configured ALAs with robust IP management.</p></li>
-<li><p><strong><a class="reference internal" href="maryam.html#page-maryam"><span class="std std-ref">AI-Learn Maryam</span></a></strong> is AI-Learn’s digital infrastructure, including cloud-based services for security, scalability, and integration.</p></li>
-</ul>
-</section>
-</section>
-<section class="tex2jax_ignore mathjax_ignore" id="font-color-maroon-why-ai-learn-font">
-<h1><font color="maroon">Why AI-Learn?</font><a class="headerlink" href="#font-color-maroon-why-ai-learn-font" title="Permalink to this heading">#</a></h1>
-<p>AI-Learn is a set of next-generation AI-based tools for democratizing education by lowering costs and increasing value.</p>
-<p>AI-learn lowers costs by:</p>
-<ul class="simple">
-<li><p>automating the tedious parts of curriculum development</p></li>
-<li><p>harnessing the power of OER (Open Educational Resources)</p></li>
-<li><p>providing an open digital library of smart instructional resources</p></li>
-<li><p>leveraging open source software, methodologies and governance</p></li>
-</ul>
-<p>AI-learn increases value by:</p>
-<ul class="simple">
-<li><p>enabling easy customization of instruction for vital new areas such as workforce development and adult learning</p></li>
-<li><p>delivering “just-in-time” advanced analytics</p></li>
-<li><p>crowd-sourcing instructional quality monitoring and evaluation</p></li>
-<li><p>establishing a market place for exchanging and monetizing instructional materials</p></li>
-</ul>
+<p>We believe that every citizen should have access to affordable, quality education. Our mission is to dramatically <em>reduce the cost</em> of curriculum development for skills-based training by at least (<strong>10 X</strong>) and to <em>improve educational achievement</em> of learners, including those from historically marginalized communities, by at least (<strong>.5 effect size</strong>).</p>
+<figure class="align-center" id="id2">
+<a class="reference internal image-reference" href="_images/costvalue.png"><img alt="_images/costvalue.png" src="_images/costvalue.png" style="width: 350px;" /></a>
+<figcaption>
+<p><span class="caption-number">Fig. 2 </span><span class="caption-text">AI-Learn Cost-Value Equation</span><a class="headerlink" href="#id2" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 </section>
 <section class="tex2jax_ignore mathjax_ignore" id="font-color-maroon-open-source-font">
 <h1><font color="maroon">Open Source</font><a class="headerlink" href="#font-color-maroon-open-source-font" title="Permalink to this heading">#</a></h1>
-<p>The AI-Learn codebase will be made available under an MIT Open Source license.</p>
+<p>AI-Learn is being developed and will be released under an <a class="reference external" href="https://en.wikipedia.org/wiki/MIT_License">MIT Open Source license</a>.</p>
 <div class="toctree-wrapper compound">
 </div>
 <div class="toctree-wrapper compound">
@@ -560,7 +523,7 @@ title="Print to PDF"
     <a class='right-next' id="next-link" href="ala.html" title="next page">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title"><font color="maroon">What are ALAs?</font></p>
+        <p class="prev-next-title"><font color="maroon">Pedagogical Design</font></p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>

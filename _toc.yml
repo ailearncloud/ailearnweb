@@ -4,12 +4,14 @@
 format: jb-book
 root: intro
 parts: 
-  - caption: Aligned Learning Activities
+  - caption: How Does AI-Learn Work?
     chapters: 
     - file: ala
+    - file: workflow
 
   - caption: Platform
     chapters:
+    - file: platformoverview
     - file: author
     - file: ada
     - file: alonzo

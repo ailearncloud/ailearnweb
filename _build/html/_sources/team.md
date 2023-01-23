@@ -1,4 +1,5 @@
 (page-team)=
-# <font color="maroon">Team</font>
+# <font color="maroon">Project Team</font>
 
-The AI-Learn Team is led by co-Principal Investigators Alfred Essa (CEO, Drury Lane Media, LLC) and Kinshuk (Dean of College of Information Studies, University of North Texas)
+The AI-Learn Open Source Project is led by Alfred Essa (CEO, Drury Lane Media, LLC) and Kinshuk (Dean of College of Information Studies, University of North Texas).
+
