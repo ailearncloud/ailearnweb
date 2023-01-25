@@ -1,4 +1,4 @@
 (page-emmy)=
-# <font color="maroon">AI-Learn Emmy</font>
+# <font color="maroon">AI-Emmy</font>
 
-AI Emmy is an AI-based intelligent tutoring system.
+AI-Learn Emmy is an AI-based intelligent tutoring system.

@@ -1,5 +1,5 @@
-(page-platformoverview)=
-# <font color="maroon">Platform</font>
+(page-platform)=
+# <font color="maroon">Overview</font>
 
 ```{figure} /images/platform.png
 :width: 500px

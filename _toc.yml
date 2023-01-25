@@ -11,7 +11,7 @@ parts:
 
   - caption: Platform
     chapters:
-    - file: platformoverview
+    - file: platform
     - file: author
     - file: ada
     - file: alonzo
@@ -23,5 +23,3 @@ parts:
     - file: team
     - file: board
   
-
-
