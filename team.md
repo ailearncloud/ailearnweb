@@ -1,7 +1,7 @@
 (page-team)=
 # <font color="maroon">Project Team</font>
 
-The AI-Learn Open Source Project is led by Alfred Essa and Kinshuk.
+The AI-Learn Open Source Project is led by Alfred Essa and Kinshuk. Shahin Mojarad serves as technical lead and Kathleen Hertenstein as project manager. 
 
 ## Alfred Essa
 ```{image} /images/alfredessa.jpg
@@ -27,5 +27,13 @@ Dr. Kinshuk is the Dean of the College of Information at the University of North
 
 With more than 550 research publications in refereed journals, international refereed conferences and book chapters, he is frequently invited as keynote or principal speaker in international conferences and visiting professor around the world. He has been twice awarded the prestigious fellowship of Japan Society for the Promotion of Science (2008 and 2013). He has also been invited as guest editor of various special issues of international journals, and continues to serve on a large number of editorial boards of prestigious journals and program committees of international conferences. He has also served on review panels for grants for the governmental funding agencies of various countries, including the European Commission, Austria, Canada, Hong Kong, Israel, Italy, the Netherlands, Qatar, Taiwan and the United States. He has a successful record of procuring external funding over 11 million Canadian Dollars (~ 8.2 million US Dollars) as principal and co-principal investigator.
 
-In his on-going sustained professional activities, he has initiated professional movements at international and national levels. At the international level, he is Founding Chair of IEEE Technical Committee on Learning Technologies, Founding Editor of the Educational Technology & Society Journal (SSCI indexed with 5-Year impact factor of 2.720 according to 2019 Clarivate Analytics Report), and one of the Founding Editors of Springer’s open access Smart Learning Environments journal (indexed by SCOPUS). At the national level, he is Founding Chair of the New Zealand Chapter of ACM SIG on Computer-Human Interaction, and Past President of the Distance Education Association of New Zealand.
+In his on-going sustained professional activities, he has initiated professional movements at international and national levels. At the international level, he is Founding Chair of IEEE Technical Committee on Learning Technologies, Founding Editor of the Educational Technology & Society Journal (SSCI indexed with 5-Year impact factor of 4.358 according to 2021 Clarivate Analytics Report), and one of the Founding Editors of Springer’s open access Smart Learning Environments journal (indexed by SCOPUS and Emerging Sources Citation Index). At the national level, he is Founding Chair of the New Zealand Chapter of ACM SIG on Computer-Human Interaction, and Past President of the Distance Education Association of New Zealand.
 
+## Shahin Mojarad
+
+```{image} /images/shahinmojarad.jpg
+:width: 150px
+:align: left
+```
+
+Shahin Mojarad is a Director of Digital Transformation and Innovation at CIBC where he leads end-to-end process of data analytics and modeling including scoping analytics, identifying required data extract and developing machine learning models. Previously he was a consultant at McGraw-Hill where he worked with the R&D team on developing advanced data visualizations and machine learning algorithms.
