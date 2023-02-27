@@ -1,7 +1,7 @@
 (page-workflow)=
 # <font color="maroon">Workflow</font>
 
-How does AI-Learn work? To develop a skills-based curriculum, an educator begins and authoring wizard and design canvas [AI-Author](page-author). An intelligent agent (AI-Assistant) is in the background to aid the educator with the most common tasks or modes. 
+How does AI-Learn work? To develop a skills-based curriculum, an educator begins with the  [AI-Author](page-author) workbench and design wizard. 
 
 ```{figure} /images/howdoesitwork.png
 :width: 400px
