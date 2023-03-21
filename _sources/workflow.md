@@ -11,15 +11,15 @@ How Does AI-Learn Work?
 
 The AI-Learn workflow consists of the following primary modes:
 
-- In **extract** mode, an educator automatically extracts ALAs by issuing a series of prompts. A simple prompt is to ask for an ALA based on a topic. AI-Learn then automatically generates the ALA. The work of extraction is performed by [AI-Ada](page-ada), an AI engine based on Large Language Models (LLMs). The extracted ALAs are populated in the design canvas for review and edit. AI-Ada can automatically extract ALAs for most STEM fields *without* prior training. AI-Ada can also extract ALAs from proprietary digital materials or Open Educational Resources (OER) with additional modest training. 
+- In **extract** mode, an educator automatically extracts a curriculum by issuing a series of guided prompts. AI-Learn then automatically generates the curriculum in the form of [ALA](page-ala). The work of extraction is performed behind the scenes by [AI-Ada](page-ada), an AI engine based on Large Language Models (LLMs). The extracted curriculum is populated in the design canvas for review and edit. AI-Learn can automatically extract 50-75% of the curriculum for most STEM fields *without* prior training. AI-Learn can also extract ALAs from proprietary digital materials or Open Educational Resources (OER) with additional modest training. 
 
 ```{figure} /images/extractmode.png
 :width: 400px
 :align: center
-ALA Automated Extraction from Large Language Model with AI-Ada
+ALA Automated Extraction from Large Language Model
 ```
 
-- In **edit** mode, an educator uses [AI-Author](page-author) to create modular ALAs from scratch or edit ALAs following extraction and discovery.
+- In **edit** mode, an educator uses [AI-Author](page-author) to create a modular curriculum from scratch or, more likely, edit a curriculum following extraction and discovery.
 
 ```{figure} /images/editmode.png
 :width: 400px
@@ -42,7 +42,7 @@ Discovery of pre-configured ALAs in AI-Jorge
 Deployment of ALAs to Third party LMS, Intelligent Tutoring Systems and AI-Emmy
 ```
 
-- In **evaluate** and **improve** mode, an educator evaluates ALAs using the AI-Learn analytics engine [AI-Alonzo](page-alonzo). The analytics ranges from simple methods such as item analysis to propensity modeling and causal inferencing. AI-Alonzo can also generates recommendations for improving ALAs based on observational data. ALA "improvements" are recorded in a "scientific logbook" of modifications under the structure of hypothesis-experiment-data. 
+- In **evaluate** and **improve** mode, an educator evaluates ALAs using the AI-Learn analytics engine [AI-Alonzo](page-alonzo). The analytics ranges from simple methods such as item analysis to propensity modeling and causal inferencing. AI-Alonzo can also generates recommendation for improving ALAs based on observational data. ALA "improvements" are recorded in a "scientific logbook" of modifications under the structure of hypothesis-experiment-data. 
 
 ```{figure} /images/evaluatemode.png
 :width: 400px
