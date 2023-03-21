@@ -8,7 +8,7 @@ AI-Learn is an open-source toolset and digital platform for creating modular ski
 AI-Learn Workflow
 ```
 
-The centerpiece of AI-Learn is AI-Author, a design workbench for creating skills-based curriculums. An educator uses AI-Author to automatically generate a learning module or an entire curriculum from AI-Learn’s LLM using simple prompts. The curriculum is configured as a set of smart learning atoms, called Aligned Learning Activities (ALAs). An ALA is a semantic triple consisting of a learning objective, assessments, and learning activities. The educator then uses AI-Author to edit, deploy, discover, evaluate, improve, and share ALAs using the AI-Learn digital platform. 
+The centerpiece of AI-Learn is AI-Author, a design workbench for creating skills-based curriculums. An educator uses AI-Author to automatically generate a learning module or an entire curriculum from AI-Learn’s LLM using simple prompts. The educator then uses AI-Author to edit, deploy, discover, evaluate, improve, and share ALAs using the AI-Learn digital platform. 
 
 # <font color="maroon">Mission</font>
 
