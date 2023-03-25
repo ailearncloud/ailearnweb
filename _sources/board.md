@@ -10,7 +10,16 @@ AI-Learn's Board of Advisors (BOA) consists of leading educators, researchers, a
 :align: left
 ```
 
-Charles Dziuban is Director of the [Research Initiative for Teaching Effectiveness](https://digitallearning.ucf.edu/impact-evaluation/) at the [University of Central Florida (UCF)](https://www.ucf.edu/) where has been a faculty member since 1970 teaching research design and statistics and is the founding director of the university’s [Faculty Center for Teaching and Learning](https://fctl.ucf.edu/). In 2017 Chuck received UCF’s inaugural Collective Excellence award for his work strengthening the university’s impact with the [Tangelo Park Program](https://www.rosengivesback.com/providing-hope-through-education/tangelo-park-program/), an educational program serving low income communities in Central Florida. Currently he is working with Patsky Moskal and Tony Picciano on the book Analytics and Adaptive Learning: Research Perspectives that will be released in 2023. In the coming year he will be transitioning to the position of Executive Director of Educational Programs for the [Harris Rosen Foundation](https://www.rosengivesback.com/the-harris-rosen-foundation/).       
+Charles Dziuban is Director of the [Research Initiative for Teaching Effectiveness](https://digitallearning.ucf.edu/impact-evaluation/) at the [University of Central Florida (UCF)](https://www.ucf.edu/) where has been a faculty member since 1970 teaching research design and statistics and is the founding director of the university’s [Faculty Center for Teaching and Learning](https://fctl.ucf.edu/). In 2017 Chuck received UCF’s inaugural Collective Excellence award for his work strengthening the university’s impact with the [Tangelo Park Program](https://www.rosengivesback.com/providing-hope-through-education/tangelo-park-program/), an educational program serving low income communities in Central Florida. Currently he is working with Patsky Moskal and Tony Picciano on the book Analytics and Adaptive Learning: Research Perspectives that will be released in 2023. In the coming year he will be transitioning to the position of Executive Director of Educational Programs for the [Harris Rosen Foundation](https://www.rosengivesback.com/the-harris-rosen-foundation/).   
+
+## Sunanda Parthsarathy
+
+```{image} /images/parthasarathy.jpg
+:width: 150px
+:align: left
+```
+
+Sunanda Parthasarathy is Head of Data Science at [Dick's Sporting Goods](https://www.dickssportinggoods.com/) where she oversees the end to end data strategy for the laregest U.S. based full-line omni-channel sporting goods retailer. Previously, she led data science teams at CVS, Wayfair and DataXu (acquired by Roku). She has been recognized as one of REWORK's 30 influential women advancing AI in Boston & with the [Massachusets Technology Leadership Council (TLC)](https://www.masstlc.org/) Emerging Executive Award for her leadership in the data science comunity. She is an active member in the local start-up, tech and data science community and is the chapter lead of the Women in Big Data Boston Chapter & co-organizer of The Data Scientist meetup group in Boston. She has a PhD in Physics from [Purdue University](https://www.purdue.edu/) followed by a postdoctoral fellowship at [Princeton University](https://www.princeton.edu/).
 
 
 ## Philip Pavlik
