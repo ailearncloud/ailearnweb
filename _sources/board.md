@@ -10,7 +10,19 @@ AI-Learn's Board of Advisors (BOA) consists of leading educators, researchers, a
 :align: left
 ```
 
+
 Charles Dziuban is Director of the [Research Initiative for Teaching Effectiveness](https://digitallearning.ucf.edu/impact-evaluation/) at the [University of Central Florida (UCF)](https://www.ucf.edu/) where has been a faculty member since 1970 teaching research design and statistics and is the founding director of the university’s [Faculty Center for Teaching and Learning](https://fctl.ucf.edu/). In 2017 Chuck received UCF’s inaugural Collective Excellence award for his work strengthening the university’s impact with the [Tangelo Park Program](https://www.rosengivesback.com/providing-hope-through-education/tangelo-park-program/), an educational program serving low income communities in Central Florida. Currently he is working with Patsky Moskal and Tony Picciano on the book Analytics and Adaptive Learning: Research Perspectives that will be released in 2023. In the coming year he will be transitioning to the position of Executive Director of Educational Programs for the [Harris Rosen Foundation](https://www.rosengivesback.com/the-harris-rosen-foundation/).   
+
+
+## Ani Grubišić
+
+```{image} /images/ani-grubisic.jpg
+:width: 150px
+:align: left
+```
+
+[Ani Grubišić](https://sites.google.com/a/pmfst.unist.hr/anigrubisic/?pli=1) is an Associate Professor at the [Faculty of Science at the University of Split](https://www.pmfst.unist.hr/djelatnici/?lang=en#1525257655586-c57ade79-8fc9), a faculty member since 2002, teaching Programming in Python, E-learning Systems and Learning Analytics courses. She is a principal investigator of her second Office of Naval Research grant awarded to a research project [Enhancing Adaptive Courseware Based on Natural Language Processing](https://www.acnltutor.net/). She has memberships in the IEEE Technical Committee on Learning Technology (IEEE TCLT), the IEEE Adaptive Instructional Systems Technical Advisory Group (IEEE AIS TAG), and the IEEE Adaptive Instructional Systems Standards Working Group (IEEE AIS WG). She is also the Editorial Board member of the [International Journal of Educational Technology in Higher Education (ETHE)](https://educationaltechnologyjournal.springeropen.com/about/editorial-board), Associate Editor of the [Journal of Communications Software and Systems](https://jcoms.fesb.unist.hr/editorial-team/), Program Board Member for the International Conference on Adaptive Instructional Systems (AIS/HCI), Chair for the Symposium on Advanced Educational Technologies (part of International Conference SoftCOM), and a reviewer for the International Journal of Educational Technology in Higher Education, the Education and Information Technologies, the IEEE Transactions on Learning Technologies, the Artificial Intelligence Review, and the Computers & Education.
+
 
 ## Sunanda Parthsarathy
 
