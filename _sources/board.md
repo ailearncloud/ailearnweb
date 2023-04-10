@@ -33,6 +33,14 @@ Charles Dziuban is Director of the [Research Initiative for Teaching Effectivene
 
 Sunanda Parthasarathy is Head of Data Science at [Dick's Sporting Goods](https://www.dickssportinggoods.com/) where she oversees the end-to-end data strategy for the largest U.S. based full-line omni-channel sporting goods retailer. Previously, she led data science teams at CVS, Wayfair and DataXu (acquired by Roku). She has been recognized as one of REWORK's 30 influential women advancing AI in Boston & with the [Massachusets Technology Leadership Council (TLC)](https://www.masstlc.org/) Emerging Executive Award for her leadership in the data science comunity. She is an active member in the local start-up, tech and data science community and is the chapter lead of the Women in Big Data Boston Chapter & co-organizer of The Data Scientist meetup group in Boston. She has a PhD in Physics from [Purdue University](https://www.purdue.edu/) followed by a postdoctoral fellowship at [Princeton University](https://www.princeton.edu/).
 
+## Nirmal Patel
+
+```{image} /images/nirmal-patel.jpg
+:width: 150px
+:align: left
+```
+
+Nirmal Patel is Co-Founder and CEO of Smart Paper, a scalable platform for digitizing educational assessments. Smart Paper is the recipient of the prestigious Learning Engineering Tools Competition (2021) and the Ageis Graham Bell Award for innotion (2022). Patel's educational data science research has won multiple awards. He actively works with India's Ministry of Education, where he uses data to address fairness and equity issues in national tests. He has also co-authored award-winning educational games that have been the subect of rigorous learning science research. 
 
 ## Philip Pavlik
 ```{image} /images/philip-pavlik.jpg
