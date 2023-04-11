@@ -1,6 +1,6 @@
 # <font color="maroon">Overview</font>
 
-AI-Learn is an open-source toolset and digital platform for creating modular skills-based curriculums. We cut out the middlemen by placing AI-powered tools directly in the hands of educators. Using AI-Learn, an educator can **design** an entire skills-based curriculum, **deploy** it to an intelligent tutoring system or learning management system, **evaluate** what is working and what needs to change, **improve** specific instructional materials to increase learning efficacy, and **share** the work and data, with colleagues, educational researchers, and the global educational community. AI-Learn is powered by AI Large Language Models (LLMs).
+AI-Learn is an open-source, AI-powered platform designed to revolutionize the way educators create skills-based curriculums. By eliminating the need for middlemen, AI-Learn puts cutting-edge tools directly into the hands of educators, empowering them to design, deploy, evaluate, and refine tailored curriculums with ease. The platform also faciliates collaboration and knowledge-sharing among educators, researchers, and the global educational community, fostering innovation in the learning landscape. 
 
 ```{figure} /images/workflow.png
 :width: 500px
@@ -8,11 +8,11 @@ AI-Learn is an open-source toolset and digital platform for creating modular ski
 AI-Learn Workflow
 ```
 
-The centerpiece of AI-Learn is AI-Author, a design workbench for creating skills-based curriculums. An educator uses AI-Author to automatically generate a learning module or an entire curriculum from AI-Learn’s LLM using simple prompts. The educator then uses AI-Author to edit, deploy, discover, evaluate, improve, and share ALAs using the AI-Learn digital platform. 
+The centerpiece of AI-Learn is AI-Author, a versatile design workbench that streamlines the curriculum creation process. With AI-Author, educators can harness AI-Learn's Large Language Models (LLMs) to automatically generate learning modules or full curriculums based on simple prompts. The platform allows for seamless editing, deployment, assessment, improvement, and sharing of Aligned Learning Activities (ALAs), fostering a dynamic and effective educational ecosystem.
 
 # <font color="maroon">Mission</font>
 
-We believe that every citizen should have access to affordable, quality education. Our mission is to dramatically *reduce the cost* of curriculum development for skills-based training by at least (**10 X**) and to *improve educational achievement* of learners, including those from historically marginalized communities, by at least (**.5 effect size**).
+We believe that every citizen should have access to affordable, high-quality education. Our mission is to revolutinize the landscape of skills-based training by significantly reducing curriculum development costs by a factor of 10, while also enhancing the educational outcomes for all learners, particularly those from historically marginalized communities, with a minimum of 0.5 effect size improvement.
 
 ```{figure} /images/costvalue.png
 :width: 350px

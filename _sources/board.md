@@ -40,7 +40,7 @@ Sunanda Parthasarathy is Head of Data Science at [Dick's Sporting Goods](https:/
 :align: left
 ```
 
-Nirmal Patel is Co-Founder and CEO of Smart Paper, a scalable platform for digitizing educational assessments. Smart Paper is the recipient of the prestigious Learning Engineering Tools Competition (2021) and the Ageis Graham Bell Award for innotion (2022). Patel's educational data science research has won multiple awards. He actively works with India's Ministry of Education, where he uses data to address fairness and equity issues in national tests. He has also co-authored award-winning educational games that have been the subect of rigorous learning science research. 
+Nirmal Patel is Co-Founder and CEO of [Smart Paper](https://www.hellosmartpaper.com/), a scalable AI-based platform for digitizing educational assessments. Smart Paper is the recipient of the prestigious [Learning Engineering Tools Competition (2021)](https://tools-competition.org/) and the Ageis Graham Bell Award for innotion (2022). Patel's educational data science research has won multiple awards. He actively works with India's Ministry of Education, where he uses data to address fairness and equity issues in national tests. He has also co-authored award-winning educational games that have been the subect of rigorous learning science research. 
 
 ## Philip Pavlik
 ```{image} /images/philip-pavlik.jpg
