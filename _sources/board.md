@@ -3,6 +3,20 @@
 
 AI-Learn's Board of Advisors (BOA) consists of leading educators, researchers, and practitioners dedicated to democratizing learning. The BOA provides oversight and governance for the AI-Learn Open Source Project. 
 
+
+## Teresa Martín-Retortillo Rubio (Chair)
+
+```{image} /images/martin-retortillo.jpg
+:width: 150px
+:align: left
+```
+
+Teresa Martín-Retortillo is the Executive President of [IE University Lifelong Learning](https://www.ie.edu/lifelong-learning/) where she leads innovation in open programs both on-line and face to face and traditional Executive Education. She is also responsible for supporting IE University´s Corporate Partners along a number of dimensions: from talent development to innovations and research.  Prior to that, she was senior vice president of Strategy and Business Development for [McGraw-Hill Education](https://www.mheducation.com/).   She is currently a Non-Executive Director at the Board of a listed Spanish bank.  Teresa is also the co-chair of the board of directors of [Headspring](https://www.headspringexecutive.com/), the joint venture between IE Business School and Financial Times for custom in-company programs. Before joining McGraw-Hill Education, Teresa was a partner with [Bain & Company](https://www.bain.com/) where she worked for circa 20 years, responsible for advising C-level executives and their boards with the objective of driving company transformations and increasing shareholder value. She worked for clients representing a range of industries including education, helping to develop business strategies and translate plans into tangible results. She has extensive experience supporting private equity clients through deal sourcing, due diligence, and portfolio company transformation on more than 100 deals.
+
+Teresa began her professional career at Goldman Sachs as a corporate finance analyst in London. She holds a bachelor’s degree in business administration from [CUNEF (Colegio Universitario de Estudios Financieros)](https://www.cunef.edu/en/) in Madrid, and an MBA degree from [Harvard Business School](https://www.hbs.edu/Pages/default.aspx).
+
+
+
 ## Charles Dzuiban 
 
 ```{image} /images/charles-dziuban.jpg
@@ -22,6 +36,7 @@ Charles Dziuban is Director of the [Research Initiative for Teaching Effectivene
 ```
 
 [Ani Grubišić](https://sites.google.com/a/pmfst.unist.hr/anigrubisic/?pli=1) is an Associate Professor at the [Faculty of Science at the University of Split](https://www.pmfst.unist.hr/djelatnici/?lang=en#1525257655586-c57ade79-8fc9), a faculty member since 2002, teaching Programming in Python, E-learning Systems and Learning Analytics courses. She is a principal investigator of her second Office of Naval Research grant awarded to a research project [Enhancing Adaptive Courseware Based on Natural Language Processing](https://www.acnltutor.net/). She has memberships in the IEEE Technical Committee on Learning Technology (IEEE TCLT), the IEEE Adaptive Instructional Systems Technical Advisory Group (IEEE AIS TAG), and the IEEE Adaptive Instructional Systems Standards Working Group (IEEE AIS WG). She is also the Editorial Board member of the [International Journal of Educational Technology in Higher Education (ETHE)](https://educationaltechnologyjournal.springeropen.com/about/editorial-board), Associate Editor of the [Journal of Communications Software and Systems](https://jcoms.fesb.unist.hr/editorial-team/), Program Board Member for the International Conference on Adaptive Instructional Systems (AIS/HCI), Chair for the Symposium on Advanced Educational Technologies (part of International Conference SoftCOM), and a reviewer for the International Journal of Educational Technology in Higher Education, the Education and Information Technologies, the IEEE Transactions on Learning Technologies, the Artificial Intelligence Review, and the Computers & Education.
+
 
 
 ## Sunanda Parthsarathy
